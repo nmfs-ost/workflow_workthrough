@@ -1,3 +1,5 @@
+**This repository has been archived and is no longer maintained. The code is provided for historical reference and may contain unpatched or unknown vulnerabilities. It should not be used in production systems.**
+
 # A Sample Stock Assessment Workflow
 A template repository for users to write a stock assessment report using {asar}
 and {stockplotr} packages
